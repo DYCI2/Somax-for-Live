@@ -17,7 +17,7 @@ Developed by Manuel Poletti in collaboration with Marco Fiorini, this new integr
 Because Somax for Live relies on a custom background Python server, it uses a specific folder structure rather than a standard Ableton Live Pack installation.
 
 1. Go to [Releases](https://github.com/DYCI2/Somax-for-Live/releases) and download the latest version.
-2. Unzip the downloaded folder and place it in your Ableton **User Library**. 
+2. Unzip the downloaded folder and place the `Somax For Live Project` folder in your Ableton **User Library**. 
    * The standard path on macOS is `~/Music/Ableton/User Library/`. 
    * *(Optional: To keep things organized, you can create a folder named `IRCAM` inside your User Library and place the Somax for Live folder inside it).*
 
