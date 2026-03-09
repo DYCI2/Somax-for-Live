@@ -1,0 +1,21 @@
+# macOS Junk
+.DS_Store
+._*
+.AppleDouble
+.LSOverride
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Ableton / Max for Live Junk
+Backup/
+CrashRecovery/
+*.maxsnap
+
+# Optional: Ignore massive audio folders if you have them locally but don't want them on GitHub
+# Audio/
+# Corpora/
