@@ -1,6 +1,6 @@
 # Somax for Live
 
-As part of the [REACH project](https://reach.ircam.fr/) in the Music Representations Team at IRCAM, **Somax for Live** brings the real-time interactive capabilities of [Somax 2](https://github.com/DYCI2/Somax2) directly into Ableton Live. 
+As part of the [REACH project](https://reach.ircam.fr/) in the Music Representations Team at IRCAM, **Somax for Live** brings the real-time interactive capabilities of [Somax2](https://github.com/DYCI2/Somax2) directly into Ableton Live. 
 
 Implemented as a collection of Max for Live devices, Somax for Live allows users to interactively co-create with the system within Live’s native environment. It combines the temporal and stylistic modeling of the core Somax engine with the flexibility of Live’s clips, automations, and control interfaces. This tight coupling between musical intelligence and production tools encourages a fluid dialogue between human and machine musicianship, enabling adaptive accompaniment, generative composition, and exploratory performance practices within an accessible and modular setup.
 
@@ -40,7 +40,7 @@ Because Somax for Live relies on a custom background Python server, it uses a sp
 Because Somax for Live shares the exact same cognitive and generative engine as the Somax2 Max/MSP application and library, the core concepts remain identical.
 
 * **Video Tutorial:** Watch our [Somax for Live Getting Started Video on YouTube](INSERT_YOUTUBE_LINK_HERE) for deep dives into specific features and workflows.
-* **Core Somax 2 Engine:** For deep dives into the underlying architecture, visit the main [Somax 2 GitHub Repository](https://github.com/DYCI2/Somax2).
+* **Core Somax 2 Engine:** For deep dives into the underlying architecture, visit the main [Somax2 GitHub Repository](https://github.com/DYCI2/Somax2).
 * **Videos, Demos, and Publications:** Can be found on the [Somax2 project page](http://repmus.ircam.fr/somax2).
 * **Corpora:** Due to space limitations, only a few small audio corpora are included. Check the [Somax2 Project page](http://repmus.ircam.fr/somax2) for more corpora.
 
@@ -50,10 +50,10 @@ Somax2 (c) Ircam 2012-2026
 
 Somax2 is a totally renewed version of the Somax reactive co-improvisation paradigm born in the Music Representations Team at Ircam - STMS. It is part of the research projects ANR MERCI (Mixed Musical Reality with Creative Instruments) and [ERC REACH](https://reach.ircam.fr/) (Raising Co-creativity in Cyber-Human Musicianship) directed by Gérard Assayag.
 
-* **Somax for Live Porting:** Manuel Poletti in collaboration with Marco Fiorini
-* **Somax 2 Development & Documentation:** Joakim Borg and Marco Fiorini
-* **Somax Creation:** Gérard Assayag and Laurent Bonnasse-Gahot
-* **Pre-version 2 & Adaptations:** Axel Chemla Romeu Santos
+* **Somax for Live development:** Manuel Poletti in collaboration with Marco Fiorini
+* **Somax 2 development & documentation:** Joakim Borg and Marco Fiorini
+* **Somax creation:** Gérard Assayag and Laurent Bonnasse-Gahot
+* **Pre-version 2 & adaptations:** Axel Chemla Romeu Santos
 * **Early Prototype:** Olivier Delerue
 
 Thanks to Georges Bloch and Mikhaïl Malt for their continuous expertise.
