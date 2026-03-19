@@ -8,8 +8,8 @@ Developed by Manuel Poletti in collaboration with Marco Fiorini, this new integr
 
 ## Requirements
 
-* **Ableton Live:** Live 11 or 12 (Suite, or Standard with the Max for Live add-on)
-* **Max:** Max 8.6 or later (Ensure Live is configured to use your bundled/system Max application)
+* **Ableton Live:** Live 12 or later (Suite, or Standard with the Max for Live add-on)
+* **Max:** Max 9 or later (Ensure Live is configured to use your bundled/system Max application)
 * **OS:** macOS 10.13 or later *(Note: The included Python server is compiled for macOS)*
 
 ## Installation
